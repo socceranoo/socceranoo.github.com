@@ -61,3 +61,6 @@
 .background-transparent {
   background: transparent !important ;
 }
+.text-justify {
+	text-align:justify;
+}
