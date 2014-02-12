@@ -61,6 +61,63 @@
 .background-transparent {
   background: transparent !important ;
 }
-.text-justify {
-	text-align:justify;
+.color-turquoise {
+  color: #1abc9c !important;
+}
+.color-greenSea {
+  color: #16a085 !important;
+}
+.color-emerald {
+  color: #2ecc71 !important;
+}
+.color-nephritis {
+  color: #27ae60 !important;
+}
+.color-peterRiver {
+  color: #3498db !important;
+}
+.color-belizeHole {
+  color: #2980b9 !important;
+}
+.color-amethyst {
+  color: #9b59b6 !important;
+}
+.color-wisteria {
+  color: #8e44ad !important;
+}
+.color-wetAsphalt {
+  color: #34495e !important;
+}
+.color-midnightBlue {
+  color: #2c3e50 !important;
+}
+.color-orange {
+  color: #f89406 !important;
+}
+.color-sunFlower {
+  color: #f1c40f !important;
+}
+.color-carrot {
+  color: #e67e22 !important;
+}
+.color-pumpkin {
+  color: #d35400 !important;
+}
+.color-alizarin {
+  color: #e74c3c !important;
+}
+.color-pomegranate {
+  color: #c0392b !important;
+}
+.color-clouds {
+  color: #ecf0f1 !important;
+}
+.color-silver {
+  color: #bdc3c7 !important;
+}
+.color-concrete {
+  color: #95a5a6 !important;
+}
+.color-asbestos {
+  color: #7f8c8d !important;
 }
