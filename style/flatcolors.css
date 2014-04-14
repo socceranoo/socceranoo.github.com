@@ -187,3 +187,6 @@
 .color-metroCyan {
   color: #33cccc !important;
 }
+.text-justify {
+  text-align: justify;
+}
