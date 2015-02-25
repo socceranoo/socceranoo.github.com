@@ -41,6 +41,20 @@ var __silver = "#bdc3c7";
 var __concrete = "#95a5a6";
 var __asbestos = "#7f8c8d";
 
+var __metro_navy = "#3399CC";
+var __metro_cyan = "#33CCCC";
+var __metro_magenta = "#996699";
+var __metro_red = "#C24747";
+var __metro_orange = "#e2674a";
+var __metro_yellow = "#FFCC66";
+var __metro_jade = "#99CC99";
+var __metro_teal = "#669999";
+var __metro_pink = "#CC6699";
+var __metro_green = "#339966";
+var __metro_purple = "#666699";
+var __lime_green = "#63EA41";
+
+//MIXINS
 var master_color_array = [
 	/*
 	__black,
