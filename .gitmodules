@@ -10,3 +10,6 @@
 [submodule "country-flags"]
 	path = country-flags
 	url = https://github.com/hjnilsson/country-flags.git
+[submodule "jquery-circle-progress"]
+	path = jquery-circle-progress
+	url = https://github.com/kottenator/jquery-circle-progress.git
