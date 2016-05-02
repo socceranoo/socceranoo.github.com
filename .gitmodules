@@ -13,3 +13,6 @@
 [submodule "jquery-circle-progress"]
 	path = jquery-circle-progress
 	url = https://github.com/kottenator/jquery-circle-progress.git
+[submodule "waypoints"]
+	path = waypoints
+	url = https://github.com/imakewebthings/waypoints.git
